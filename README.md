@@ -1,4 +1,4 @@
-# 📍 Layouts para UI 👨‍💻
+# ✨ Layouts para UI 📱
 Projeto desenvolvido em Java no Android Studio para a cadeira de Computação para Dispositivos Móveis da UniRitter.
 
 Proposta do professor👨‍🏫: 
